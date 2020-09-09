@@ -579,6 +579,10 @@ plotImpacts.py -i impacts.json -o impacts
 
 Or click [here](https://videos.cern.ch/record/2728501) if the embedded video above doesn't work.
 
+## Feedback
+
+If you've finished this exercise, we'd like to hear what you thought about it! If you could spare a few minutes to complete the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSd35snnJ1SSFn3rkFSvErBTuSFORslsIOVZ29G8hUAeBFwCxQ/viewform) we would be very grateful.
+
 ## Further tutorials
 In this exercise we have covered some basics of RooFit and some of the most widely used features of combine. If you'd like to learn more, here are some links to other tutorials:
 
