@@ -345,7 +345,7 @@ In this case we only computed the values for one signal mass hypothesis, indicat
 
 **Tasks and questions:**
 
-  -   There are some important uncertainties missing from the datacard above. Add the uncertainty on the luminosity (name: `lumi_13TeV`) which has a 2.5% effect on all processes (except the `jetFakes`, which are taken from data), and uncertainties on the inclusive cross sections of the `Ztautau` and `ttbar` processes (with names `xsec_Ztautau` and `xsec_diboson`) which are 4% and 6% respectively.
+  -   There are some important uncertainties missing from the datacard above. Add the uncertainty on the luminosity (name: `lumi_13TeV`) which has a 2.5% effect on all processes (except the `jetFakes`, which are taken from data), and uncertainties on the inclusive cross sections of the `Ztautau` and `ttbar` processes (with names `xsec_Ztautau` and `xsec_ttbar`) which are 4% and 6% respectively.
   -   Try changing the values of some uncertainties (up or down, or removing them altogether) - how do the expected and observed limits change?
   -   Now try changing the number of observed events. The observed limit will naturally change, but the expected does too - why might this be?
 
